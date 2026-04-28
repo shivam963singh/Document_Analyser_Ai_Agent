@@ -1,0 +1,9 @@
+google-genai
+pypdf
+python-docx
+pandas
+openpyxl
+nbformat
+python-dotenv
+requests
+streamlit
